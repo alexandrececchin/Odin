@@ -13,4 +13,4 @@ jpa.default.properties.hibernate.hbm2ddl.auto: update
 jpa:
   default:
     entity-scan:
-      packages: 'com.odin'
+      packages: 'com.odin.model'
